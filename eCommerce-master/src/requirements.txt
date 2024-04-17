@@ -26,3 +26,4 @@ smmap2==2.0.3
 stripe
 urllib3>=1.23
 wheel==0.38.0
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
