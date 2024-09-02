@@ -9,7 +9,7 @@ django==3.2.18
 docutils==0.14
 gitdb2==2.0.3
 gitpython==3.1.30
-gunicorn==19.10.0
+gunicorn==21.2.0
 idna==2.6
 jmespath==0.9.3
 olefile==0.44
